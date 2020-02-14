@@ -17163,3 +17163,5 @@ java.lang.IllegalStateException: Missing header Content-Length in input "{"jsonr
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:834)
 
+Feb 14, 2020 9:13:07 PM com.redhat.quarkus.ls.QuarkusLanguageServer initialize
+INFO: Initializing Quarkus server 0.0.4-20191120-1547 with /snap/intellij-idea-community/208/jbr
